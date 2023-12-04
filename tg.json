@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "fullName": "Sobid Rustamov",
+      "phone": "+998976155182",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "chats": []
+}
